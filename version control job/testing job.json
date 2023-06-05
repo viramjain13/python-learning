@@ -7,7 +7,7 @@
   },
   "command" : {
     "name" : "glueetl",
-    "scriptLocation" : "s3://aws-glue-assets-002839631941-us-east-1/scripts/version control job.py",
+    "scriptLocation" : "s3://aws-glue-assets-002839631941-us-east-1/scripts/test.py",
     "pythonVersion" : "3"
   },
   "defaultArguments" : {
